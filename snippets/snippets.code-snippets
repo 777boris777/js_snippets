@@ -1,0 +1,6 @@
+{
+    "MyRandoms":{
+        "prefix": "rand",
+        "body": "Math.floor(Math.random() * $0)"
+    }
+}
